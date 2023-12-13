@@ -24,7 +24,4 @@ const CartWidgetComponent = () => {
     )
 
 }
-
- 
-
 export default CartWidgetComponent;
